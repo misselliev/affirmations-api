@@ -1,0 +1,2 @@
+class Affirmation < ApplicationRecord
+end
