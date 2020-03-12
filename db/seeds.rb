@@ -11,5 +11,5 @@ text = "life loves me. everything is working out for my highest good. out of thi
 affirmations = text.split(".")
 
 for i in affirmations do
-  puts i
+  Affirmation.create(phrase: i)
 end
