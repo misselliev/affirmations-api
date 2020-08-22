@@ -1,24 +1,31 @@
-# README
+![beta development](https://img.shields.io/badge/beta-development-green?style=flat-square)
+![Hireable](https://cdn.rawgit.com/hiendv/hireable/master/styles/default/yes.svg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 💻 Dulce-Affirmations-API (BETA)
 
-Things you may want to cover:
+Ruby on Rails API for Dulce-Namaste. Affirmations from The 1975's Mindshower.ai for [The Birthday Party.](https://www.youtube.com/watch?v=Do7B74dyEVs) 
 
-* Ruby version
 
-* System dependencies
+## Author
 
-* Configuration
+👤 Elizabeth Villalejos
 
-* Database creation
+- [Github](https://github.com/misselliev)
+- [Linkedin](https://linkedin.com/ellievillalejos)
+- [Dev.to](https://dev.to/misselliev)
+- [Twitter](https://twitter.com/miss_elliev/)
+- [Instagram](https://www.instagram.com/miss_elliev/)
+- [Email](mailto:elizabeth.villalejos@gmail.com?subject=Website%20Inquiry)
 
-* Database initialization
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](issues/).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+> “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
