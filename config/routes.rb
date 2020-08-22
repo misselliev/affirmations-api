@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  get '/affirmation', to: 'affirmation#daily'
   get '/affirmation/index', to: 'affirmation#index'
   post '/affirmation/create', to: 'affirmation#create'
   

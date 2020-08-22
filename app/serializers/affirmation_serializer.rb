@@ -1,3 +1,3 @@
 class AffirmationSerializer < ActiveModel::Serializer
-  attributes :id, :phrase
+  attributes :phrase
 end

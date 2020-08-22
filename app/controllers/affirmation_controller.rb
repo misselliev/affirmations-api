@@ -1,4 +1,10 @@
 class AffirmationController < ApplicationController
+
+  def daily
+    @affirmation = Affirmation.limit(1).order("RANDOM()")
+    render json: @affirmation
+  end
+
   def index
     @affirmations = Affirmation.all 
     render json: @affirmations
