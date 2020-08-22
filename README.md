@@ -5,6 +5,10 @@
 
 Ruby on Rails API for Dulce-Namaste. Affirmations from The 1975's Mindshower.ai for [The Birthday Party.](https://www.youtube.com/watch?v=Do7B74dyEVs) 
 
+## Usage
+
+Make a request to this [link](https://dulce-affirmations-api.herokuapp.com/affirmation) to get a Daily Affirmation and [here](https://dulce-affirmations-api.herokuapp.com/affirmation/index) you can see all the affirmations available.
+
 
 ## Author
 
